@@ -56,4 +56,5 @@
 		</plugins>
 		<finalName>tarefas</finalName>
 	</build>
+	
 </project>
